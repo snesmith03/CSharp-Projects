@@ -1,7 +1,13 @@
  using System;
 using System.IO;
 using System.Net.NetworkInformation;
+/*
+This program utilizes a multi-dimensional array, for loops, conditional statements,
+user inputs, and strings to create an application that informs the user of how much 
+space there is left in an animal home. The application allows the user to update information that may have been unknown at some point and has checks in place to ensure the right data types are being entered by the user. This program utilizes a multi-dimensional array, for loops, conditional statements, user inputs, and strings to create an application that informs the user of how much space there is left in an animal home. The application allows the user to update information that may have been unknown at some 
+point and has checks in place to ensure the right data types are being entered by the user. 
 
+*/
 // the ourAnimals array will store the following: 
 string animalSpecies = "";
 string animalID = "";
